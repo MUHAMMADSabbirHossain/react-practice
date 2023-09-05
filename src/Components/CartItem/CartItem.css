@@ -1,0 +1,13 @@
+.cart-section-meal {
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+}
+
+.cart-section-meal {}
+
+.cart-section-meal img {
+    width: 50px;
+}

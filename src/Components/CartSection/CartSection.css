@@ -1,0 +1,35 @@
+.cart-summary {
+    background-color: rgb(253, 239, 211);
+    padding: 20px 5%;
+}
+
+.cart-summary-details {
+    position: sticky;
+    top: 0;
+}
+
+.cart-summary-review {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.clear-cart-btn {
+    color: white;
+    width: 95%;
+    padding: 5%;
+    background-color: rgb(255, 24, 24);
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.review-cart-btn {
+    color: white;
+
+    width: 95%;
+    padding: 5%;
+    background-color: rgb(255, 203, 91);
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
